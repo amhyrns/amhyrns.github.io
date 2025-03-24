@@ -1,2 +1,2 @@
-Web Dev Portfolio - www.amhyrns.github.io
+Web Dev Portfolio - https://amhyrns.github.io/
 
